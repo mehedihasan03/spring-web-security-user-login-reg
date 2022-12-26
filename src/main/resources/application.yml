@@ -22,7 +22,7 @@ spring:
     host: localhost
     port: 1025
     username: mehedi@cellosco.pe
-    password: Rotba@0@
+    password: hello
 
     properties:
       mail:
